@@ -5,7 +5,7 @@ import img2pdf
 # CUSTOM SETTINGS: edit this BEFORE running the program.
 
 # 1. Specify your operating system user name
-osuser = "user" # <-- edit this
+osuser = "Standard" # <-- edit this
 
 # 2. (OPTIONAL) Edit the output path.
 out_path = "C:/Users/"+osuser+"/Desktop/"
